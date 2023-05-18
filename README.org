@@ -1,0 +1,9 @@
+* snooze
+
+Common Lisp RESTful web development.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/joaotavora/snooze.git |
+| commit  | a84d44e                                      |
+| systems | snooze                                       |
+|---------+----------------------------------------------|
